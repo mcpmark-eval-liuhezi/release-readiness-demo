@@ -1,2 +1,3 @@
-# release-readiness-demo
-Release readiness demo repo for sprint demo walkthrough
+# Release Readiness Demo
+
+This repository is the live example for the release-readiness audit walkthrough.
